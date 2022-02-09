@@ -11,7 +11,7 @@ the bankruptcy of the player's opponent but further customizability is provided.
 # Installation
 Clone this repo
 ```
-git clone https://github.com/aarnich/Property...Property.git
+git clone https://github.com/carlcastanas/Property-Property.git
 ```
 Run the makefile
 ```
@@ -297,8 +297,6 @@ bash runGame.sh
 | 3   | PLayer 2 at pos 0 rolls a 4 | player.pos = 0, roll = 4 | player.pos = 4                            | player.pos = 4                            | P   |
 
 
-# References
-* Computerphile. YouTube. Retrieved February 4, 2022, from https://www.youtube.com/user/Computerphile/
-* SICP. Structure and interpretation of computer programs. Retrieved February 4, 2022, from https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html 
-
+# Author
+Sam
 
