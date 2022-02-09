@@ -1,4 +1,4 @@
-#### Written by: Aaron Nicholas Gumapac
+#### Written by: Sam
 #### Section: S15B
 
 # Property...Property is a Monopoly-like game that is exclusively written in C
