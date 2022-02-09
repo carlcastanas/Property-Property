@@ -1,7 +1,7 @@
 #### Written by: Sam
 #### Section: S15B
 
-# Property...Property is a Monopoly-like game that is exclusively written in C
+# Property-Property is a Monopoly-like game that is exclusively written in C
 Players take turns rolling dice and in doing so, move about a board.
 Each board position is home to a unique property with its very own interactions and UI elements.
 
@@ -15,7 +15,7 @@ git clone https://github.com/carlcastanas/Property-Property.git
 ```
 Run the makefile
 ```
-cd Property...Property/ && make
+cd Property-Property/ && make
 ```
 To reset the build, clean the directory
 ```
