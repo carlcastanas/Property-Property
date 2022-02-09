@@ -1,0 +1,4 @@
+#!/bin/sh
+EXECUTABLE_DIR="$(pwd)"
+SHARED_LIB_DIR="$(pwd)/libs/"
+LD_LIBRARY_PATH=.:$SHARED_LIB_DIR  $EXECUTABLE_DIR/./play
